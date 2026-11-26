@@ -52,7 +52,7 @@ HTML과 CSS를 활용하여 웹 페이지를 구성하고, 사용자 친화적�
 - [x] Pull Request에 주요 변경 사항 작성
 - [x] Pull Request에 멘토님께 전달할 메시지 작성
 - [x] Git 작업 과정에서 Unix 명령어 활용
-- [ ] Netlify를 이용한 HTML/CSS 페이지 배포
+- [x] Netlify를 이용한 HTML/CSS 페이지 배포
 
 ## 2. 공통 요구사항
 
@@ -98,7 +98,7 @@ HTML과 CSS를 활용하여 웹 페이지를 구성하고, 사용자 친화적�
 ## 5. 심화 요구사항
 
 - [x] CSS 변수를 활용하여 주요 색상 관리
-- [ ] Google Analytics를 활용한 방문자 수 확인
+- [x] Google Analytics를 활용한 방문자 수 확인
 
 ---
 
